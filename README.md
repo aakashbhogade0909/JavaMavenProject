@@ -1,3 +1,3 @@
 # JavaMavenProject
 
-This is my first check in v1.0
+This is my first check in v1.0.1
